@@ -1,0 +1,14 @@
+langchain
+langchain-community
+unstructured
+libmagic
+python-magic
+python-magic-bin
+streamlit
+PyPDF2
+faiss-cpu
+sentence-transformers
+python-dotenv
+openai
+tiktoken
+langchain-openai

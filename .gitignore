@@ -1,0 +1,6 @@
+.env
+app.py
+tutorial.ipynb
+rockyenv/
+vector_file/
+.idea/
